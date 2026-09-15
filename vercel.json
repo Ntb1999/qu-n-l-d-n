@@ -1,0 +1,9 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/SBSI_Master_Project_Portal.html"
+    }
+  ]
+}
